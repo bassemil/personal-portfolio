@@ -1,0 +1,145 @@
+body {
+    line-height: 1.75;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    background: color #f5f5f5;
+    color: black;
+
+
+}
+
+img {
+    max-width: 100%;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+ul, li {
+    list-style: none;
+}
+
+.div-header {
+   
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem;
+}
+
+.header a {
+    text-decoration: none;
+    padding: 2rem;
+    color: black;
+}
+
+
+.span {
+    color: orangered;
+}
+
+.banner {
+   background: linear-gradient(pink,green);
+    padding: 4rem;
+    text-align: center;
+    min-height: 70vh;
+    display: grid;
+    place-items: center;
+}
+
+.banner-text {
+    
+}
+
+.banner a {
+    text-decoration: none;
+    border-style: groove;
+    padding: 0.5rem;
+}
+
+
+.project {
+    width: 80%;
+    margin: auto;
+}
+
+.heading {
+    text-align: center;
+}
+
+.list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15.5rem, 1fr));
+    gap: 1.7rem;
+    padding: 1rem;
+    margin: 0;
+}
+
+.list {
+  
+
+}
+
+.list a {
+    text-decoration: none;
+}
+
+
+
+.tribute-page {
+    background-color: deeppink;
+    font-size: 40px;
+
+    
+}
+
+.survey-form {
+    background-color: black;
+    font-size: 40px;
+}
+
+.product-landing-page {
+    background-color: cadetblue;
+    font-size: 40px;
+
+}
+
+.technical-document-page {
+    background-color: chartreuse;
+    font-size: 40px;
+}
+
+.personal-portfolio-webpage {
+    background-color: cyan;
+    font-size: 40px;
+}
+
+.item {
+    min-height: 23rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.section2 {
+    background: linear-gradient(blue,grey);
+    padding: 3rem;
+    text-align: center;
+}
+
+.section2 a {
+    text-decoration: none;
+}
+
+
+
+
+
+
+
